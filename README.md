@@ -8,7 +8,9 @@
 - 19BCE2424 Prakhar Sharma
 
 # BOOK-IT Description
-    A responsive web application that allows the customer to purchase second hand books online, as well as sell some. Through this book store the users can search for a book by its title and later can add to the shopping cart and finally purchase using a transaction of their choice. Users can also put their books on sale through our application for a reasonable price.
+    A responsive web application that allows the customer to purchase second hand books online, as well as sell some. 
+    Through this book store the users can search for a book by its title and later can add to the shopping cart and finally purchase using a transaction of their choice. 
+    Users can also put their books on sale through our application for a reasonable price.
     
  ##   [Live App Demo](under construction)
  
