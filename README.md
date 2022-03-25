@@ -1,5 +1,5 @@
 # Book-Exchange-App
-<hr>
+
 
 ## Developed by:
 - 19BCB0049 Gargi Lohia
